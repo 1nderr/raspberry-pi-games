@@ -15,7 +15,7 @@ A collection of Python programs and games designed to run on a Raspberry Pi with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/is386/raspberry-pi-games.git
+   git clone https://github.com/1nderr/raspberry-pi-games.git
    cd raspberry-pi-games
    ```
 
